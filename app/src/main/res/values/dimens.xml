@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizebutton">40dp</dimen>
+    <dimen name="lineheight">1sp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="title">20sp</dimen>
+    <dimen name="subtitle">16sp</dimen>
+    <dimen name="space1">50dp</dimen>
+    <dimen name="space2">100dp</dimen>
+    <dimen name="space3">150dp</dimen>
+    <dimen name="space4">1dp</dimen>
+</resources>

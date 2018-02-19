@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExamTest</string>
+    <string name="bici">Bicicleta</string>
+    <string name="title">BICICLETA VINTAGE</string>
+    <string name="checkcolor">Color</string>
+    <string name="titleDescription">Descripción</string>
+    <string name="description">Bastidor de acero ligero personalizado. Sin restaurar en hermosa condición original. Ligeramente usado y bien cuidado. Completa creación de súper registro.</string>
+    <string name="titleMeasurement">Medición</string>
+    <string name="measurement">La rueda de 26 pulgadas en la parte trasera y la rueda de 24 pulgadas en la parte delantera. Armazón pequeño y tubos superiores largos.</string>
+    <string name="buttonAdd">Añadir al carrito</string>
+    <string name="like">+1 para Bicicleta Vintage</string>
+    <string name="S">S</string>
+    <string name="M">M</string>
+    <string name="L">L</string>
+    <string name="XL">XL</string>
+    <string name="added">Añadido al carrito</string>
+    <string name="undo">Deshacer</string>
+    <string name="already">El artículo ya está en el carro</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExamTest</string>
+    <string name="bici">Bicycle</string>
+    <string name="title">VINTAGE BICYCLE</string>
+    <string name="checkcolor">Color</string>
+    <string name="titleDescription">Description</string>
+    <string name="description">Custom lightweight steel frame. Unrestored in beatiful original condition. Lightly used and well kept. Full super record build.</string>
+    <string name="titleMeasurement">Measurement</string>
+    <string name="measurement">The 26-inch wheel on the back and the 24-inch wheel on the front. Small frame and long upper tubes. </string>
+    <string name="buttonAdd">Add to cart</string>
+    <string name="like">+1 to Vintage Bicycle</string>
+    <string name="S">S</string>
+    <string name="M">M</string>
+    <string name="L">L</string>
+    <string name="XL">XL</string>
+    <string name="added">Added to cart</string>
+    <string name="undo">Undo</string>
+    <string name="already">Item already is in cart</string>
+</resources>
